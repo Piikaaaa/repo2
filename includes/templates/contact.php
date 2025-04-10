@@ -3,8 +3,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Contacto</h2>
+        <p>Sus necesidades son resultado de algo que se le escapa, de hecho son consectetur voluntad</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -12,15 +12,15 @@
         <div class="row g-4 g-lg-5">
           <div class="col-lg-5">
             <div class="info-box" data-aos="fade-up" data-aos-delay="200">
-              <h3>Contact Info</h3>
-              <p>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis.</p>
+              <h3>Información de contacto</h3>
+              <p>Hay una misa sabia, un valle de los niños ni, pobreza no excepto. Lo primero es ir antes que el primero.</p>
 
               <div class="info-item" data-aos="fade-up" data-aos-delay="300">
                 <div class="icon-box">
                   <i class="bi bi-geo-alt"></i>
                 </div>
                 <div class="content">
-                  <h4>Our Location</h4>
+                  <h4>Nuestra Ubicación</h4>
                   <p>A108 Adam Street</p>
                   <p>New York, NY 535022</p>
                 </div>
@@ -31,7 +31,7 @@
                   <i class="bi bi-telephone"></i>
                 </div>
                 <div class="content">
-                  <h4>Phone Number</h4>
+                  <h4>Número de teléfono</h4>
                   <p>+1 5589 55488 55</p>
                   <p>+1 6678 254445 41</p>
                 </div>
@@ -42,7 +42,7 @@
                   <i class="bi bi-envelope"></i>
                 </div>
                 <div class="content">
-                  <h4>Email Address</h4>
+                  <h4>Dirección de correo electrónico</h4>
                   <p>info@example.com</p>
                   <p>contact@example.com</p>
                 </div>
@@ -52,8 +52,8 @@
 
           <div class="col-lg-7">
             <div class="contact-form" data-aos="fade-up" data-aos-delay="300">
-              <h3>Get In Touch</h3>
-              <p>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis.</p>
+              <h3>Ponte en contacto</h3>
+              <p>Hay una misa sabia, un valle de los niños ni, pobreza no excepto. Lo primero es ir antes que el primero.</p>
 
               <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
                 <div class="row gy-4">
@@ -75,11 +75,11 @@
                   </div>
 
                   <div class="col-12 text-center">
-                    <div class="loading">Loading</div>
+                    <div class="loading">Cargando</div>
                     <div class="error-message"></div>
-                    <div class="sent-message">Your message has been sent. Thank you!</div>
+                    <div class="sent-message">Tu mensaje ha sido enviado. ¡Gracias!</div>
 
-                    <button type="submit" class="btn">Send Message</button>
+                    <button type="submit" class="btn">Enviar mensaje</button>
                   </div>
 
                 </div>
